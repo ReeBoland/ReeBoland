@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+#### I'm Rhiannon, and I’m currently working through a Hyperion Dev Bootcamp in Data Science, gaining experience with machine learning, NPLs, Python, and data visualisation. 
+
+#### I currently work as an analyst and am developing my data cleansing and visualisation skills.
+
+#### I have a BA in Politics and an MA in Humanitarianism and Conflict Response and my long-term goal is to work for an NGO in a researcher capacity.
+
 <!--
 **ReeBoland/ReeBoland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
